@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 大家好，我是何杭
- <a href='[https://scholar.google.com/citations?user=WMkMTb4AAAAJ](https://scholar.google.com/citations?user=5R-m_8UAAAAJ)'>
 我的研究领域包括：
 - 知识图谱
 - 数据挖掘
