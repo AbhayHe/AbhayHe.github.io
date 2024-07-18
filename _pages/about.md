@@ -30,16 +30,16 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2028.06（预计）*, <a href="https://www.cugb.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中国地质大学（北京） 信息工程学院, 北京, 博士研究生
-- *2021.09 - 2024.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 成都理工大学 计算机与网络安全学院, 四川成都, 硕士研究生
-- *2017.09 - 2021.06*, <a href="https://www.tfswufe.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 西南财经大学天府学院 智能科技学院, 四川绵阳, 本科
+- *2024.09 - 2028.06（预计）*, 中国地质大学（北京） 信息工程学院, 北京, 博士研究生
+- *2021.09 - 2024.06*,  成都理工大学 计算机与网络安全学院, 四川成都, 硕士研究生
+- *2017.09 - 2021.06*,  西南财经大学天府学院 智能科技学院, 四川绵阳, 本科
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`He Hang`,, Ma C, Ye S, et al. Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning[J]. Journal of Earth Science, 2024, 35(3): 1035-1043. (JCR:Q2)  
