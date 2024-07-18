@@ -39,16 +39,16 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`He Hang`,, Ma C, Ye S, et al. Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning[J]. Journal of Earth Science, 2024, 35(3): 1035-1043. (JCR:Q2)  
+-	`He Hang`,Ma C, Ye S, et al. Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning[J]. Journal of Earth Science, 2024, 35(3): 1035-1043. (JCR:Q2)  
 [[网页]](https://doi.org/10.1007/s12583-023-1944-8) 
 </div>
 </div>
 
 
--`He H`, Ma C, Ye S, et al. Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning[J]. Journal of Earth Science, 2024, 35(3): 1035-1043.(JCR:Q2)  
+- `He H`, Ma C, Ye S, et al. Low Resource Chinese Geological Text Named Entity Recognition Based on Prompt Learning[J]. Journal of Earth Science, 2024, 35(3): 1035-1043.(JCR:Q2)  
 [[网页]](https://doi.org/10.1007/s12583-023-1944-8) 
 - H Wang, H Zhong, A Chen, K Li,`H He`, Z Qi, D Zheng, H Zhao, M Hou. A knowledge graph for standard carbonate microfacies and its application in the automatical reconstruction of the relative sea-level curve[J]. Geoscience Frontiers, 2023, 14(5): 101535.(JCR:Q1)  
 [[网页]](https://doi.org/10.1016/j.gsf.2023.101535) 
